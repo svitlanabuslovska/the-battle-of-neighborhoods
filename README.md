@@ -1,2 +1,1 @@
-# the-battle-of-neighborhoods
- Capstone Project
+Here goes description of Week-1 project

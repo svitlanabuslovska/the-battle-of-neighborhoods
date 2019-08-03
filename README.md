@@ -1,1 +1,1 @@
-Here goes description of Week-1 project
+TODO: add Capston Project description
